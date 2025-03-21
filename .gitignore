@@ -1,0 +1,14 @@
+# .vscode folder
+.vscode/
+
+# Python bytecode files
+__pycache__/
+
+# Virtual environments (tg)
+tg/
+
+.idea/
+config.py
+
+# Database files
+*.db
